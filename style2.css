@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Farro&family=Kaushan+Script&family=KoHo:ital,wght@1,200&family=Oswald:wght@200;400&family=Reggae+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Farro&family=Kaushan+Script&family=KoHo:ital,wght@1,200&family=Mochiy+Pop+One&family=Oswald:wght@200;400&family=Reggae+One&family=Roboto:ital@1&display=swap');
+
+body{
+margin-top:15px;
+}
+.reg{
+margin:auto;
+width:75%;
+border:4px solid #3cd668;
+padding:10px;
+}
+
+.Home{
+	width:90%;
+	margin:auto;
+	padding:25px 0;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+img{
+	width:200px;
+	
+}
+
+.button2{
+	font-size:20px;
+	color:#f003fc;
+	text-decoration:none;
+	border:#f003fc 2px solid;
+	padding:10px 20px;
+	border-radius:20px;
+}
+.button2:hover{
+	background:#f003fc;
+	color:#fff;
+}
+.reg h1{
+	font-family:farro;
+	color:#e6225d;
+	text-align:center;
+}
+.submit{
+	padding:15px 20px;
+	border-radius:10px;
+	border:none;
+	font-weight:bold;
+	margin-left:350px;
+	font-size:15px;
+	cursor:pointer;	
+}
+h3{
+	font-family:Roboto;
+	color:#0356fc;
+}
